@@ -5,7 +5,7 @@ A lightweight Python utility that automatically updates your Windows desktop wal
 
 **Features**
 
-1. Automatically changes your wallpaper on a timed cycl
+1. Automatically changes your wallpaper on a timed cycle
 2. Randomly selects images from a folder of your choice
 3. Avoids repeating wallpapers by tracking recently used images
 4. Resets history automatically when all images have been used
